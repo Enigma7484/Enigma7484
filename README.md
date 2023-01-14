@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enigma7484
+- 👋 Hi, I’m Omar
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
