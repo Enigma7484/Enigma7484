@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Omar
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach me via Instagram @omarhaque44
+- 🌱 I’m currently learning Go.
+- 💞️ I’m looking to collaborate on AI Apps/Platforms/OpenSource.
+- 📫 Reach me via Discord @en1gm4_
 
 <!---
 Enigma7484/Enigma7484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
